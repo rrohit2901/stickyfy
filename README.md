@@ -1,4 +1,4 @@
-*STICKYFY*   
+**STICKYFY**   
 *This is paper implementation of cycleGAN used to translate from human face domain to cartoon face domain*  
 *This project is still under development as final results have not been updated*  
 **To download datasets reuired for projects visit: -**  
